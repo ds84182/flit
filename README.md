@@ -1,9 +1,10 @@
-# flit
+# flit - **Fl**utter Desktop Toolk**it**
 
-Flutter Desktop Toolkit
+FLIT is a toolkit for creating desktop applications using Flutter. It provides useful platform-specific utilities for
+Flutter applications running on desktops.
 
-## Getting Started
+Currently provides:
 
-For help getting started with Flutter, view our online [documentation](https://flutter.io/).
+* Title bar for Windows
 
-For help on editing package code, view the [documentation](https://flutter.io/developing-packages/).
+* Text input for a SDL-based Flutter Embedder.
